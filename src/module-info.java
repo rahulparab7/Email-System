@@ -1,0 +1,2 @@
+module guiapplication {
+}
